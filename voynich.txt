@@ -26,7 +26,7 @@
 # by IBM card loss.  In some cases these mistakes were so severe that it
 # was impossible to insert line ends correctly.
 #
-
+#
 # page 1
 # folio  1r
 # line ends added from Currier's transcription
@@ -63,7 +63,7 @@ GTCCG,ODCCG,ODG,8AM,ODTCG,DODAM,0TOE,DA8TG,8AE-
 8TCO,SO8G,DOTCG,HZG,ODTCG,DCCG,DCCG,8AE,THOR-
 0CO,TOE,TOD,TOHG,TOHCG=
 8TAM=
-
+#
 # page 2
 # folio  1v
 # line ends added from Currier's transcription
@@ -80,7 +80,7 @@ TODG,TOE,HZOE,SOE,ODAE,8OETCG,TO8O,EOE,TG,HZG-
 ODOE,SOE,DOE,DCTG,TOE,DG,TOE,HZOE,TO8G,TOE,8AM-
 SOR,ODOE,TOE,8OE,DG,8AR,SOE,8TOR,OHTO,8AR,SO8G-
 HAOR,TOHTCG,8AE,TO8G,2TO8G,POE,TO8AR=
-
+#
 # page 3
 # folio  2r
 # line ends added from Currier's transcription
@@ -100,7 +100,7 @@ DG8AN,SAM,4OG,2,SOE,FO8AL,GDS,OESCCG,8AIIE8G-
 GTAN,8AE,TG,8AEOR,SAL,8AL,OE2AM,SCCG,DZOR-
 ODOE,TG,TOR,HZOR,GOR,AL,TAL,2AM,TCHG,TGDG,2AE-
 SO,GDCCG,TCG,8AM,THZG=
-
+#
 # page 4
 # folio  2v
 # Currier's language A, hand 1
@@ -115,7 +115,7 @@ DTOR,SG,8AIM,TDZOG,2,SCG,8OR,TOE,8AM-
 8OR,TOE,TOR,TOE,DCOE,TG,THG,8AM,OHTOR,TAL-
 8AM,TOHTCG,4OHCCCG,TODCO2,TCC2,TR,TCAM-
 TODOISC,TOR,TCOE,TOE,8OEO8G=
-
+#
 # page 5
 # folio  3r
 # line ends added from Currier's transcription
@@ -142,7 +142,7 @@ OHCOE,TOE,2,TCOE,CDSG,4ODCOK,4ODOE,8AM,2OECCK-
 PTCOE8OK,SO8AM,4OPTOR,4OPOE,OPTOE,4OHG,OHOEOK-
 OHTOR,OE,TCOR,4OCOR,8AIR,4OHCOE,4O2AM,TOR,HZG-
 GTCOR,TOE,O8AM,TOE,2AM,ODOEOR,AK=
-
+#
 # page 6
 # folio  3v
 # Currier's language A, hand 1
@@ -163,7 +163,7 @@ SO,SODZO,DZG,HTOR,TO8AM,TOK-
 OS,TO8AIR,GHTG,HTOR,DTAK,2-
 SAR,SDAM,4ODTG,GHG,HZAE,TDG-
 8AN,SCAK,GHCAK=
-
+#
 # page 7
 # folio  4r
 # Currier's language A, hand 1
@@ -183,7 +183,7 @@ O8AE,SOR,SGSOE,PZAM-
 4OHTOM,SCAR,4OHG-
 2OM,TAM,TAM-
 8AM,HZCG=
-
+#
 # page 8
 # folio  4v
 # line ends added from Currier's transcription
@@ -204,7 +204,7 @@ SO,DTCOR,SO8G,SHAM,4OHOE,8AM-
 4ODCG,SO,ODCOE,2,DCCG,SAR,TAR,O8G-
 SO8G,2,TCOR,TODO8G,SO8AM,4OHG-
 OTO8G,TG,DCG,THO8G=
-
+#
 # page 9
 # folio  5r
 # line ends added from Currier's transcription
@@ -218,7 +218,7 @@ OHAN,SCO8G,TAL,2,TCOR,TOHZG=
 HSG,SO8G,4OAM,TOEOE2,SO,4OHTCO,8AM,SO8AM-
 SO,TCOR,TCG,4OCCCG,4OGDCCCG,4OCOR,HZG,SOHSG,8G-
 4OHOCCG,DCCG,TCO,DTG,SO8G=
-
+#
 # page 10
 # folio  5v
 # line ends added from Currier's transcription
@@ -231,7 +231,7 @@ D,O,TCOR,TOR,GHTCG,PSO8,TOE2,TO8AM,GHOIM,8AM-
 4OHOR,SCC2,OHOF,GDOM,SOE,8AM,HZOR,ODTG,HAM-
 SODCCOE,TOR,TCOHOE,OHTOE,8AM,8AE,TOE,TOHAM-
 OHOF,TOE,8AIRO88=
-
+#
 # page 11
 # folio  6r
 # line ends added from Currier's transcription
@@ -252,7 +252,7 @@ GTAR,OETA8,OETODAM-
 OR,SOE,HZOK,TOR,HZG-
 4OHZOE,4O8AM,HZG-
 GSO,HAM,GDAIIK=
-
+#
 # page 12
 # folio  6v
 # line ends added from Currier's transcription
@@ -280,7 +280,7 @@ GHTO,HZOE,TC2,HZOR-
 OTOEG,DTOR,TG,8OR-
 8TOR,TOE8AR,ODOE,8AM-
 GTCOR,TOR,OHZAK=
-
+#
 # page 13
 # folio  7r
 # line ends added from Currier's transcription
@@ -297,7 +297,7 @@ DSOEO,TCG,4OHOCC2,TDOE8G,OHTOR,TOAM-
 ODTCG,8CCCC2C,TOHG,4ODTG,SOE,DCCG,TOHG,8AN-
 4ODCTG,OETOM,TOE,PZCG,SDZG,TOTG,DTO8-
 2TAN,TOR,8AM,TDZG=
-
+#
 # page 14
 # folio  7v
 # line ends added from Currier's transcription
@@ -313,7 +313,7 @@ DTOR,SCO8,SCO8AM,SO,8AM,ODSO,ESOE,8AIR,4O2-
 ODSO,8CCCL,TOR,TCOR,O8AM,SOHT,8OE,8OE,8ORAM-
 4OHCCCO,RTO,TCCO8G,4OHTCG,HCG,ODTOR,8AM-
 SO,DCCO,8AIIR,TODTG,8OR,8COE,8G,8OE,8AM=
-
+#
 # page 15
 # folio  8r
 # line ends added from Currier's transcription
@@ -341,7 +341,7 @@ FZAM,TAM,CE,8AM,TOR,TA,RTCAE,TAK-
 2AIR,TCAN,PZOE,8AR,SOE,DAM,SOE,DAM,8AI,DAK-
 OR,TODC2CG,SCG,ODAE,TAE=
 2TOE,2AIK=
-
+#
 # page 16
 # folio  8v
 # line ends added from Currier's transcription
@@ -366,7 +366,7 @@ SOR,ODOE,EODAM,SOE,DOE,TAR,HZCG,HTG,DZAK-
 OR,TOE,TM,TCDG,TOR,TCAN,TAR,TCCDG,TOR,RG-
 TOR,TCOR,TCAR,OHCCG,8TOR,TO8CG,TO,RAM-
 8AN,TCAR,8AM=
-
+#
 # page 17
 # folio  9r
 # line ends added from Currier's transcription
@@ -383,7 +383,7 @@ OR,TOE,TG,HTG,HTOE,GHOR,4OHOE,TGDG,TO8AR,AM-
 4OHTO,4ODTG,HZCG,DORAM,ODAN8,8AE,2OESO,HZG-
 OTO,HZG,TOHZOG,TO8GDTG,2AM,8TG,8AM=
 GHTAR,ORAM,TDAR=
-
+#
 # page 18
 # folio  9v
 # line ends added from Currier's transcription
@@ -402,7 +402,7 @@ O8OE,TOG,DSCO8G,TO8G,8AM,OHTG,HZO8,GDO-
 OHG,DTOE,TOE,TGDGHG-
 GTOR,TSOHG,ODG,DAM-
 TDAM,DZG,TOR=
-
+#
 # page 19
 # folio  10r
 # line ends added from Currier's transcription
@@ -422,7 +422,7 @@ OGDTOR,SOR,TOR,TG,DAIM,8G,TO8AM-
 O4OHAR,OHOR,FZG,HZOR,O2AN,GHOM-
 ROHTO,SOR,4OHG,4OHOR,HZG8,OHAR-
 O8AM,8AM,4OHTG,4OHOR=
-
+#
 # page 20
 # folio  10v
 # line ends added from Currier's transcription
@@ -436,7 +436,7 @@ PAM,8AM,SCO,PTCCG,4OHG,8AM,HZOR,OHG8G,2AN-
 SO,GDCCG,8AM,4OHTG,4OHOR,TOE,8AM,4ODTG,DG-
 SOM,TOR,SHZG,4OHG,4OHOM,4ODOE,TOR,AM-
 4ODOE,TG,DG,TOE,TCDG,8AM,8AN,TDZAL=
-
+#
 # page 21
 # folio  11r
 # line ends added from Currier's transcription
@@ -450,7 +450,7 @@ HSOE,2TOAE,FZG,SFG8AM,PZG,SCG,HTO8G,SOGHG-
 HTOE,SOR,SOR,8DG,SPZG,8AM,HZG,8G,TO8E,8AM-
 O8E,82G,OHOE,TAM,GDTOR,8AIR,TO8G,HZG,2,8AM-
 4OHTG,ODTOE,HZG,8G=
-
+#
 # page 22
 # folio  11v
 # line ends added from Currier's transcription
@@ -463,7 +463,7 @@ OHTOR,8G,DTG,HTG,8AR,4ODT8,ODG,TOE,8G,8G-
 4ODTOR,TOEOEOR,TGDG,8TG,4ODG,HZO,HTCG,H-
 OL,2OG8G,4OHCCG,4OHTOR,8G,88G,HZOR,SG,AR-
 K,GTCOR,DSO,8OR,HZCG,2TOE8=
-
+#
 # page 23
 # folio  13r
 # line ends added from Currier's transcription
@@ -480,7 +480,7 @@ HTOR,8OR,8AM,4OHTOE,ODTG,ODTOR,OM,TDZG,8-
 SOTG,4ODTG,HORTG,DCDZG,2,ODTCG,8AM-
 OE8G,SCG,TOE,8OM,GDOEG,ODTAE,8AE8G-
 2OHTG,DTG,ODORORG=
-
+#
 # page 24
 # folio  13v
 # line ends added from Currier's transcription
@@ -497,7 +497,7 @@ FOE,8AM,OEPZG,SOE8G,OHG,SOR,4OHG8,8AIRO8-
 OHTG,8AM,G8AN,GDOE,ODTG,ODAE8,8GHAM-
 HTHO8,OHAE,HZOR,GHAE,GTOHAE,SO,4OHZG-
 GOE,TG,DTCG,DTOR,8AE=
-
+#
 # page 25
 # folio  14r
 # line ends added from Currier's transcription
@@ -517,7 +517,7 @@ OHTO,8AN,TDZG=
 8TO,DTG,2TOE,8G,SCG,8AR,4OHG,GDCCGDG-
 OCCCL,TCG,HCOR,TCG,HTG,DG,TO8AE-
 K,2O8AM,TG,DTG,DTG,GDCO8G=
-
+#
 # page 26
 # folio  14v
 # line ends added from Currier's transcription
@@ -533,7 +533,7 @@ ODSG,8AM,ODTOR,TDG,4OHTG,8AM,HZOR,OHG-
 OGDSG,TOHG,8G8GO8G8,OHTG,ODTG,8SG,8AR8G-
 TODSOR,8AM,ODSO8G,8AM,8OE8AIR,8AK-
 8GDTG,HZOE8K,8TDZG=
-
+#
 # page 27
 # folio  15r
 # line ends added from Currier's transcription
@@ -554,7 +554,7 @@ ODAM,OHAM,TE,2G,TOR,TORO22,4OHOR,SOR,HTCOR,TG,HZAM,SAL-
 GDSOE,8OR,SCCG,HZG,8AN,2DG,SOR,SOHG-
 OHTO,DTG,TOE,8AM,HZAR,GHOE,8OR,8OK-
 4OHTOR,TAM,TG,DOE,8ADG=
-
+#
 # page 28
 # folio  15v
 # line ends added from Currier's transcription
@@ -573,7 +573,7 @@ OHTOEO,HZOE,TOE,TOE,TO8G,DAL-
 2OR,TOR,HZOM,HZG,4ODAM-
 2OEOM,TCOR,TOE,8AM,HZG-
 8AM,HZOR,TOE,TOR=
-
+#
 # page 29
 # folio  16r
 # line ends added from Currier's transcription
@@ -593,7 +593,7 @@ HOROR,8AEG8AE,OPTG,FTOE,GPTOFZG,ODAE-
 2ODTG,4ODOE,TOHG,ODTG,HZG,TG,DTG-
 8GTO,DTG,SHZG,SHSG,SO,HTODG8-
 4ODTOR,8E,8G,SCG=
-
+#
 # page 30
 # folio  16v
 # line ends added from Currier's transcription
@@ -614,7 +614,7 @@ PTOHZG,TGPTG,4OHTG,TFZCG,2G-
 ODGHAM,TDTG,2AM-
 8AM,GDG,OHOR,TO8G-
 2ODAR,OAORAR=
-
+#
 # page 31
 # folio  17r
 # line ends added from Currier's transcription
@@ -634,7 +634,7 @@ DSCO,4ODTG,TOE8SG,00PTG,8SG,OPTOR8G-
 8AR,TCAR,8SCOR,8AN,GKOE-
 OHTOE,HZAR,ODAM,TOE,8AM-
 GTO8G,TOHOK=
-
+#
 # page 32
 # folio  17v
 # line ends added from Currier's transcription
@@ -664,7 +664,7 @@ GDCCG,ODCCG,TCOR,TOE,SO,G8AM-
 OAE,TCOR,SOEOR,OR,SCHZG,PZCOR,8AM-
 4ODCCC,8AR,TCG,DCCOR,TCCOE,HZCCG,HZG-
 TDCCG,ODCOR,TAR,ODCOK=
-
+#
 # page 33
 # folio  18r
 # line ends added from Currier's transcription
@@ -685,7 +685,7 @@ TOE,THZAE,ODSAE,TGDAE8-
 GTAIR,HZOE,8AM,4ODTG,HZG-
 OR,SAM,HZOR,HZAE,ODAE,8AR=
 GTCDTG,DTAM=
-
+#
 # page 34
 # folio  18v
 # line ends added from Currier's transcription
@@ -702,7 +702,7 @@ GTOE,8OR,TO8,4ODOE,8AM,4ODOE,8AR,8G-
 HOEOE,S,PZOG,8AROR,88G,GHOR,GDAK-
 ODTOR,4OHTG,4ODTG,GHOE,8ODG,8G-
 GDA,8SG,8AIR,GDOE,8OK=
-
+#
 # page 35
 # folio  19r
 # line ends added from Currier's transcription
@@ -722,7 +722,7 @@ OR,TOR,8ADG,8AE,TOR,8ORE,SG-
 4OHTG,4OEO8G,TOE8G,HZG8-
 GDTOR,TOR,8AM,8AMOE-
 O2OHZOR,GHTOR=
-
+#
 # page 36
 # folio  19v
 # line ends added from Currier's transcription
@@ -742,7 +742,7 @@ GTOR,ODG,TOR,GHAE,TOE,ODG88OR-
 OHT,ODTO8,SG,8AM,OR,OHAM,8AIR-
 GCC2,GDTOE,OHG,GHOR,GHAR,GHTOR,GHAM=
 OHTOE,TCAM,HZOE=
-
+#
 # page 37
 # folio  20r
 # line ends added from Currier's transcription
@@ -762,7 +762,7 @@ OTOAM,TOR,2O8G,PTO8AM,TCHO8G,TODG,8TG,HOG-
 8TO8,4OHCCO8G,GHTG,4OH,SCG,8TAM,TOE,O8G-
 SOM,TCO8G,OHTCG,OHTG,HTG,4OHCCG,8AM,8AR-
 OTAM,TOR,TOR,TCCG,HTCG=
-
+#
 # page 38
 # folio  20v
 # line ends added from Currier's transcription
@@ -780,7 +780,7 @@ SAN,TORAEG,SO,AR,TG,8AM,82,-
 GDTG,DCO8G,TO,HZG,TOE,S8,4OHG,80-
 0,SODAM,TOHZG,TOE,8AM,TG,TOR,CHG-
 ODOM,TCG,PZOE,TORG=
-
+#
 # page 39
 # folio  21r
 # line ends added from Currier's transcription
@@ -799,7 +799,7 @@ ODAM,SO,HSAM,TDAM,SHZCG,HZO8G,HZG2-
 HOHTG,DCOR,TGDG,4OHAM,4OHTOE,HG,HZCCG,OHAM-
 SOE,TOE,SOE,HTOE,THZG,OHGDG,SCG,GHCOE,SO8G-
 GDCCG,TOR,SCCG,GSCOE,TOR,TOE,8AM,TDAM=
-
+#
 # page 40
 # folio  21v
 # line ends added from Currier's transcription
@@ -814,7 +814,7 @@ OSG,8CCG,HZOE,SOHZG,8AM,8AIHODG-
 SO,HSO,TOHSOE,TOE,HO8AM,8AM-
 GDTO,ETOE,TOE,TAM,OHTG,2,SCAM-
 TOE,DTOTAM=
-
+#
 # page 41
 # folio  22r
 # line ends added from Currier's transcription
@@ -834,7 +834,7 @@ DTOE,TOR,8AM,HZOM,8TOR,TCG,4ODOE8G,OPTOE,OE8AK-
 8OM,GDZO8G,4ODTG,ODG,OHOE8G,GHG,8OE,OR,8ATG,8AM-
 O8TAM,HZG,ODTG,DTG,8TOE,8AM,G8AM-
 8TOR,8G8AN,4ODZG,GDAE,ODAN=
-
+#
 # page 42
 # folio  22v
 # line ends added from Currier's transcription
@@ -857,7 +857,7 @@ ODTAN,TDOE8G,SOHOEG-
 4OHTG,OESEG,SOE,8AM-
 SO,HZG,TOHZG,4ODTG,8ORG=
 2AM,TG,8AE8AEOE=
-
+#
 # page 43
 # folio  23r
 # Currier's language A, hand 1
@@ -875,7 +875,7 @@ K,4ODSG,TAR,8AIIR,4ODAM,OEOE,4OAM,GDTG,2,8AE,ODTG-
 ODOE,ODSG,4ODOE,8G,8AE,8SC,4ODCCC2G,OEG,8AM,8AE-
 4GD,ODAM,TDTG,2,GHCAN,O8AE,TAE,8G,8AR,GDAN-
 GDGDA,8AEORG=
-
+#
 # page 44
 # folio  23v
 # line ends added from Currier's transcription
@@ -892,7 +892,7 @@ OHSG,8AE,8AR,OE8AR,AR,OR,4OHO,E,TCC2,-
 K,8ORTG,DSOE,TOE,HZO0,OHOE,OEOIIR-
 GODAM,8ORAM,OEOE2,OM,OE,TCCL,OE2-
 OFANO2,OEORO,CCCOEG=
-
+#
 # page 45
 # folio  24r
 # line ends added from Currier's transcription
@@ -917,7 +917,7 @@ SAK,ODCAE,8AE,8AK,8AE-
 GTCOE,TOE,8AM,TOE,2-
 GOE,HOE,TOE,SOK,OHAPZG-
 2AK,TOREG=
-
+#
 # page 46
 # folio  24v
 # line ends added from Currier's transcription
@@ -941,7 +941,7 @@ OCCCG,TCOE,TOE,O8OR,SO,8O,OHOEO8AE-
 8OIIR,TCCD8AK,SO,SO,8G-
 8TCG,DTO8,8TAE,OT8G-
 OHTOE,O8AIIK=
-
+#
 # page 47
 # folio  25r
 # line ends added from Currier's transcription
@@ -955,7 +955,7 @@ N,8TDZG,SOHZG,GHTCG,HZOR,2,TAL,TAM,4OHTAN-
 4OHTCAM,8TAN,HZAN,8AM,8AM,HZAN,4OHAM-
 ODAE,TOHAM=
 8AIR,OHAIIR,OHO2G=
-
+#
 # page 48
 # folio  25v
 # line ends added from Currier's transcription
@@ -969,7 +969,7 @@ ORTO,DTOR,TOE,8AM,SDZOR,8AM,8SCG,8ANHG-
 8AR,TODCCG,8SOR,8SCG,4OTOE,8OE,TO,8AM,8AM-
 4ODTO,ROTG,4OHTG,4ODORAE,,TO,0,TAN,8CCAIIR,2-
 OS,TDCG,8ANOE,8AM,SDZG,,ORTAM=
-
+#
 # page 49
 # folio  26r
 # line ends added from Currier's transcription
@@ -998,7 +998,7 @@ HTCO,SG,8CC8G,ODC8G,TDZG,2-
 8G-
 GDCCTG,ODCC8G,TCD,G-
 SC2C,AM,SCO2,TCO8G,OHAE- =
-
+#
 # page 50
 # folio  26v
 # line ends added from Currier's transcription
@@ -1014,7 +1014,7 @@ HOCC8G,DCO8G,SC8G,8AR,TC8G,2TC2,OR,T0DG,8AR,TCG,TCDG,GHT8G-
 PTC8G,8AR,TCOCH,TG,2AIR,TCC2,O8AIM,TDCCCG,GDCG,SCCG-
 HTC8G,ODCCO2TCCO2,G2AM,ODTCCG,DCO8G,2AM,TCCO2,4ODC2,ORG-
 GSCCG,ODCSG,SO8G,PSCG,HO8G8G=
-
+#
 # page 51
 # folio  27r
 # line ends added from Currier's transcription
@@ -1041,7 +1041,7 @@ TG,HOE-
 K,4OHTCG,SC2,2G,TG,HTCG,8G-
 TOE,8AIM,TCC2,TO2,HZG,8AL,8AN,TCODCCG,TCG,HZCG,OHAE-
 OHTO8CCG=
-
+#
 # page 52
 # folio  27v
 # line ends added from Currier's transcription
@@ -1059,7 +1059,7 @@ O,ODSO,8OTCC2K,-
 SO,SOG,DTO,S8G-
 8T8,TRTRA,OHT8G-
 ODSC2,ODTO,DSG=
-
+#
 # page 53
 # folio  28r
 # line ends added from Currier's transcription
@@ -1083,7 +1083,7 @@ SO,OHOR,SODZG,SOHZG,OHOE8G-
 O2TOHSE,8AM,ODTCG,DOE,8AM-
 SOE,8SO,OHAM-
 GHTOE,8CCG,GHCOE,8CAM=
-
+#
 # page 54
 # folio  28v
 # line ends added from Currier's transcription
@@ -1099,7 +1099,7 @@ OHOE,TOE,8AM,TDAM,SOM,4OHTCG,4OHSCG,8AIM-
 PTOE,AIIR,TOE,HSO,8AM,SO,HCO,TG,THSG,8AIR,AK-
 ODAN,TAL,TAN,HZOR,8AN,GD,TG,8AM,HZOE-
 2OR,TCAR,TE,0,SOEG,8AR=
-
+#
 # page 55
 # folio  29r
 # line ends added from Currier's transcription
@@ -1120,7 +1120,7 @@ TOHG,DAM-
 SOR,TOR,SO,SCDG,SG,4OHG,DO8G-
 8AM,HZG-
 4ODSC,4OR,TCG,DOR,TCO8,GTOK=
-
+#
 # page 56
 # folio  29v
 # line ends added from Currier's transcription
@@ -1151,7 +1151,7 @@ TGDAR-
 8AM,THCOR,OHZG,8AR,TGH-
 OHO8G-
 4CDCOTOR,OHTCG,2G=
-
+#
 # page 57
 # folio  30r
 # line ends added from Currier's transcription
@@ -1171,7 +1171,7 @@ TODTAM,8TOR,TDTCAL,4OHTG,THZO,RTO8G-
 4OHTOR,TCOR,TCG,TCOR,TCG,2OM,G8CG,2OR,8AM-
 8TCCG,DZCG,DZCG,8AM,TDCAM,8AR,TOR,GT8A-
 M,TO8AM,THTCG,TCAR,SG,DCCG=
-
+#
 # page 58
 # folio  30v
 # line ends added from Currier's transcription
@@ -1189,7 +1189,7 @@ OGSG,TCOHOE,PZOAM,PZCG-
 4OHTOR,TOR,SCCG,TCOE,2O2-
 SO,SCOE8G,OHTCOR,8AM-
 2OE,TODTCCG,8AM,DTO8G=
-
+#
 # page 59
 # folio  31r
 # line ends added from Currier's transcription
@@ -1212,7 +1212,7 @@ OESCOR,4ODC8G,ODC8G,GDC8G,8AE2-
 2AIIR,OR,TC8G,8AM,ODCC8G-
 GSC8AIR,SCOE,TCDG,ODC8A-
 R,OHCOR,AIIHZG=
-
+#
 # page 60
 # folio  31v
 # line ends added from Currier's transcription
@@ -1229,7 +1229,7 @@ GDAM,TCC,DSCCG,GTCD,CCOR,TCOR,OR,TCHZG,ODCTO,DC8,ETCG,ODAK-
 GHCTCOE,SCOCDG,ODCO2,AM,AHZC8G,TDAM,TCHTCG,HZCCG,ODCAR-
 8AR,TOAR,AE,DAR,OCCCO2,TCO2,AM,OHZCG,ODCO,DOR,OHCOE,AN-
 2AM,AR,DZCO2,TC8G,ODCCG,4OAIR,ORAM,TCAK-
-
+#
 # page 61
 # folio  32r
 # line ends added from Currier's transcription
@@ -1260,7 +1260,7 @@ TODCOE,8TOHG-
 8OM,SOSG-
 8OE,8TOE8A-
 R,
-
+#
 # page 62
 # folio  32v
 # line ends added from Currier's transcription
@@ -1286,7 +1286,7 @@ OHTOE,8AM,8AM,HZO,8AM,4OHAM,OHTG,8,SAR,4OHTG,FZG,2DCG,TOHZG,8AM,HZAM-
 SO,DCOE,TOR,TOE,8AM,PZOE,HZOE,8G,A-
 R-
 OE,SO,TG=
-
+#
 # page 63
 # folio  33r
 # line ends added from Currier's transcription
@@ -1299,7 +1299,7 @@ HAM,TCDCG,OR,AEAIM,2AM,ODAM,8AR,TCC8G,TDCCG,FAR,AM,2-
 PAIR,ORAM,OHAM,OEDOR,AM,ODAE,OHAE,T8AE,SCDAE,4ODAR,OHAK-
 GHCCG,SO8G,HTC8G8G,TCDAR,ODAM,ODAM,8AM,ODAE-
 8AR,TO2,AM,OR,AM,TCCDAM,ODAN,AR,ODCCCG=
-
+#
 # page 64
 # folio  33v
 # line ends added from Currier's transcription
@@ -1332,7 +1332,7 @@ T8GS8G,PORAR-
 ODAN,8AE,8G-
 ETOAR,ORTCG,EO8AM,OOR,ODCC8G,ODAEG-
 HARAE,DCCGORAK=
-
+#
 # page 65
 # folio  34r
 # line ends added from Currier's transcription
@@ -1378,7 +1378,7 @@ OR,AR,GDAR,OE,AE,ODG-
 TO8G,4ODAE,TC8G,THZC8G,TCDG,8ARAK-
 2AIR,TCDAR,TCDG,SCD-
 TOETC8G,4ODC8G,GDTCOETHZG=
-
+#
 # page 66
 # folio  34v
 # line ends added from Currier's transcription
@@ -1396,7 +1396,7 @@ GSCO2,OHAR,AR,TO,RAM,TCDG,OET8AM,OR,OE8AR,T8AR,ODAK-
 ESCO8G,HZG,4ODCCG,DCC8G,DT8G,TC8G,4ODC8G,T8G,DAE,S2,OE8AM-
 8AM,T8G,HC8G,DT8G,ODCC8G,TCDZG,T8G,DAN,TAR,OR,ADC8G,ODAK-
 GSO2,O8G,2AM,ODOG,ODAE,SC8G=
-
+#
 # page 67
 # folio  35r
 # line ends added from Currier's transcription
@@ -1423,7 +1423,7 @@ HZOE,TOE,AM,4OHTG,OHTOR,8AM-
 SOE-
 4OHAM-
 OTOR,2TM,8AM,GHAN=
-
+#
 # page 68
 # folio  35v
 # line ends added from Currier's transcription
@@ -1451,7 +1451,7 @@ G8AM,ODCCG,8AM-
 2TODCG,GDCOE,TOE,8AM-
 2O8AM,SG,8TG,DZG,8AL-
 8OM,TOR,TOR=
-
+#
 # page 69
 # folio  36r
 # line ends added from Currier's transcription
@@ -1471,7 +1471,7 @@ ODAM,HZOR,GDAM,2-
 4OHOE,HZOE,ODOE8G,ODTG,GHORORG,2OE8-
 GHTOR,HZOE,TAM,G8-
 GHO8AEG,8AM,OHARO=
-
+#
 # page 70
 # folio  36v
 # line ends added from Currier's transcription
@@ -1494,7 +1494,7 @@ OHGTHZG,GHORG8-
 GHOE,DTG,OHG,T8-
 ODG,SC,HZOE,OHG-
 2OM,THAN=
-
+#
 # page 71
 # folio  37r
 # line ends added from Currier's transcription
@@ -1516,7 +1516,7 @@ GDTO8G,4OHTG,GDAM,TG,4OHOR8G-
 OHTOEOE,8AM-
 4OHO,ODTOTOR,8TOR,TG8AM,GTCG,DOE,8A-
 IIR,ODTOR,8AM,DZG,8AN,8AM=
-
+#
 # page 72
 # folio  37v
 # line ends added from Currier's transcription
@@ -1544,7 +1544,7 @@ GTODZCG,GDOE,8AM,2-
 OSHZO-8O,8AM,HZOE2-
 4OHOE,GHOM,TOHZCG-
 GHO,TOE,8AM=
-
+#
 # page 73
 # folio  38r
 # line ends added from Currier's transcription
@@ -1563,7 +1563,7 @@ ODOR,TCG,DAN-
 TOR,HZO,8AN,DZOE8G-
 GSO,SO,DO2-
 8AM,ODOG,TOTOR,8AM=
-
+#
 # page 74
 # folio  38v
 # line ends added from Currier's transcription
@@ -1584,7 +1584,7 @@ SO,DCCCG,DCG,HCG,8AM,8AIM-
 8AM,4OETG,8AN,0,OR,8AM-
 8AN,8AE8G-
 OAM,TAR,TSOE,TODAM=
-
+#
 # page 75
 # folio  39r
 # line ends added from Currier's transcription
@@ -1607,7 +1607,7 @@ GHOR,T8AR,SCG,4ODAM,TOR,DAR,SCOE,DC8G,OHC8G,HC8G,2AM-
 8AM,SDZG,TCDE,OE,8AM,TC8G,GDCCG,8AM,OHAE,T8AK,4ODAK-
 4OEDAN,OETCOE,8AM,8AR,OE,8E8,IIR,A8OR,AM,OFTCC,FAR-
 OHCOE,TOEDAE,4ODAE,8AR,GD8G=
-
+#
 # page 76
 # folio  39v
 # line ends added from Currier's transcription
@@ -1635,7 +1635,7 @@ ODAR,TCO8AE,ODZG-
 8AN,ODZC8G,OHC8G,ODC8G-
 ET8G,ODAM,8AIMG-
 HARAM,ODAM,TOEO8G=
-
+#
 # page 77
 # folio  40r
 # line ends added from Currier's transcription
@@ -1661,7 +1661,7 @@ K,HAM,OE,OEAM,OR-
 2AM,OETCCG,T8G-
 GTCG,DAKAR,ODG,GDC8G,ODAIR,O8G-
 HOAR,GDAM,ORG,8AE=
-
+#
 # page 78
 # folio  40v
 # line ends added from Currier's transcription
